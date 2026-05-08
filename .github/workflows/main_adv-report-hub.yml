@@ -72,6 +72,6 @@ jobs:
           app-name: 'adv-report-hub'
           slot-name: 'Production'
           package: ${{ env.AZURE_FUNCTIONAPP_PACKAGE_PATH }}
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_A2214B7A8D2A47B99BF6A88C180DD5ED }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_D1A224C69F274346977A88FC79282085 }}
           sku: 'flexconsumption'
         
