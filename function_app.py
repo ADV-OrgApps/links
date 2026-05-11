@@ -13,7 +13,7 @@ def link_redirect(req: func.HttpRequest) -> func.HttpResponse:
         "mobile_annual_report": "https://app.fabric.microsoft.com/groups/me/orgapps/4c8b1742-8ce8-41b2-ab71-384bb0626d43?ctid=d8999fe4-76af-40b3-b435-1d8977abc08c",
         "print_annual_report": "https://app.fabric.microsoft.com/groups/me/orgapps/93c11ebb-fbff-46c1-b10b-34870726350d?ctid=d8999fe4-76af-40b3-b435-1d8977abc08c",
         "static_digital_annual_report": "https://app.fabric.microsoft.com/groups/me/orgapps/04811eda-41d2-4bb7-b6b3-c65d1bedbc71?ctid=d8999fe4-76af-40b3-b435-1d8977abc08c",
-        "son reports": "https://app.fabric.microsoft.com/groups/me/orgapps/4ca20025-81f3-47ba-a2e9-d7f9fcce8bc8?ctid=d8999fe4-76af-40b3-b435-1d8977abc08c"
+        "son_reports": "https://app.fabric.microsoft.com/groups/me/orgapps/4ca20025-81f3-47ba-a2e9-d7f9fcce8bc8?ctid=d8999fe4-76af-40b3-b435-1d8977abc08c"
     }
 
     # Fetch the destination URL
