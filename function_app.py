@@ -23,12 +23,12 @@ def link_redirect(req: func.HttpRequest) -> func.HttpResponse:
         "my_communications_insights": "https://app.fabric.microsoft.com/groups/27346895-48f2-4fec-8009-9057dd75366a/orgapps/1f529e00-9e5b-4728-ac61-8d1eee3669fd?ctid=d8999fe4-76af-40b3-b435-1d8977abc08c",
         "my_donor_relations_insights": "https://app.fabric.microsoft.com/groups/27346895-48f2-4fec-8009-9057dd75366a/orgapps/76046300-e022-49f1-b530-634e8fc4f4b2?ctid=d8999fe4-76af-40b3-b435-1d8977abc08c",
             # Batch 3
-        "my_annual_giving_insights": "https://app.fabric.microsoft.com/groups/27346895-48f2-4fec-8009-9057dd75366a/orgapps/65d21fc5-7b47-4241-8b30-d46da930b7b4?ctid=d8999fe4-76af-40b3-b435-1d8977abc08c",
-        "my_corporate_foundation_relations_insights": "https://app.fabric.microsoft.com/groups/27346895-48f2-4fec-8009-9057dd75366a/orgapps/be2d05d1-cfe9-40ce-8915-a75a9e9f1daf?ctid=d8999fe4-76af-40b3-b435-1d8977abc08c",
-        "my_planned_giving_insights": "https://app.fabric.microsoft.com/groups/27346895-48f2-4fec-8009-9057dd75366a/orgapps/7e6bb243-90e8-48ef-8df1-a95bf1ea6361?ctid=d8999fe4-76af-40b3-b435-1d8977abc08c",
-        "my_prospect_research_insights": "https://app.fabric.microsoft.com/groups/27346895-48f2-4fec-8009-9057dd75366a/orgapps/0c3ffa31-bbf5-4899-9f97-6c34d92edd9d?ctid=d8999fe4-76af-40b3-b435-1d8977abc08c",
-        "my_alumni_insights": "https://app.fabric.microsoft.com/groups/27346895-48f2-4fec-8009-9057dd75366a/orgapps/2f586bc6-271c-4966-bab8-6a5b721a4160?ctid=d8999fe4-76af-40b3-b435-1d8977abc08c",
-        "my_regional_development_insights": "https://app.fabric.microsoft.com/groups/27346895-48f2-4fec-8009-9057dd75366a/orgapps/55a4f476-e3a6-4a82-af0a-f8b2938880bf?ctid=d8999fe4-76af-40b3-b435-1d8977abc08c"
+        "my_annual_giving_insights": "https://app.fabric.microsoft.com/groups/27346895-48f2-4fec-8009-9057dd75366a/orgapps/d6fb8dde-3ba1-47ab-9288-3caa43ff95d3?ctid=d8999fe4-76af-40b3-b435-1d8977abc08c",
+        "my_corporate_foundation_relations_insights": "https://app.fabric.microsoft.com/groups/27346895-48f2-4fec-8009-9057dd75366a/orgapps/1ca68847-5b7d-4117-89d3-97bef19d76f6?ctid=d8999fe4-76af-40b3-b435-1d8977abc08c",
+        "my_planned_giving_insights": "https://app.fabric.microsoft.com/groups/27346895-48f2-4fec-8009-9057dd75366a/orgapps/d3b56859-fd8a-4b1d-bd06-0e4f2fca8757?ctid=d8999fe4-76af-40b3-b435-1d8977abc08c",
+        "my_prospect_research_insights": "https://app.fabric.microsoft.com/groups/27346895-48f2-4fec-8009-9057dd75366a/orgapps/21b7adf7-7ef9-4df4-bd91-9e1b36aa14bf?ctid=d8999fe4-76af-40b3-b435-1d8977abc08c",
+        "my_alumni_insights": "https://app.fabric.microsoft.com/groups/27346895-48f2-4fec-8009-9057dd75366a/orgapps/1d01e4ab-ca90-4094-a756-0b6f68b89eb9?ctid=d8999fe4-76af-40b3-b435-1d8977abc08c",
+        "my_regional_development_insights": "https://app.fabric.microsoft.com/groups/27346895-48f2-4fec-8009-9057dd75366a/orgapps/77c7d90a-095e-4662-ab0e-cc14d7fdc457?ctid=d8999fe4-76af-40b3-b435-1d8977abc08c"
     }
 
     # Fetch the destination URL
