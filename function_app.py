@@ -10,10 +10,10 @@ def link_redirect(req: func.HttpRequest) -> func.HttpResponse:
     # Dictionary mapping your clean URLs to the Fabric Org App GUIDs
     redirect_map = {
         # Annual Reports
-        "digital_annual_report": "https://app.fabric.microsoft.com/groups/me/orgapps/c994d0ee-cdd9-43d3-8892-59ff978b3621?ctid=d8999fe4-76af-40b3-b435-1d8977abc08c",
-        "mobile_annual_report": "https://app.fabric.microsoft.com/groups/me/orgapps/4c8b1742-8ce8-41b2-ab71-384bb0626d43?ctid=d8999fe4-76af-40b3-b435-1d8977abc08c",
-        "print_annual_report": "https://app.fabric.microsoft.com/groups/me/orgapps/93c11ebb-fbff-46c1-b10b-34870726350d?ctid=d8999fe4-76af-40b3-b435-1d8977abc08c",
-        "static_digital_annual_report": "https://app.fabric.microsoft.com/groups/me/orgapps/04811eda-41d2-4bb7-b6b3-c65d1bedbc71?ctid=d8999fe4-76af-40b3-b435-1d8977abc08c",
+        "digital_annual_report": "https://app.fabric.microsoft.com/links/vTxtuI_NUQ?ctid=d8999fe4-76af-40b3-b435-1d8977abc08c",
+        "mobile_annual_report": "",
+        "print_annual_report": "",
+        "static_digital_annual_report": "https://app.fabric.microsoft.com/links/7GXGX86txg?ctid=d8999fe4-76af-40b3-b435-1d8977abc08c",
         # Functional Areas Report Hubs
             # Test
         "my_school_of_nursing_insights": "https://app.fabric.microsoft.com/groups/27346895-48f2-4fec-8009-9057dd75366a/orgapps/4ca20025-81f3-47ba-a2e9-d7f9fcce8bc8?ctid=d8999fe4-76af-40b3-b435-1d8977abc08c",
